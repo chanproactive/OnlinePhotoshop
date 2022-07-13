@@ -1,0 +1,9 @@
+altair==4.2.0
+astropy==5.0.4
+numpy==1.21.5
+opencv_python==4.6.0.66
+pandas==1.4.2
+Pillow==9.2.0
+scipy==1.7.3
+streamlit==1.10.0
+weightedstats==0.4.1
