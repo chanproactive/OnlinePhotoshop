@@ -1,7 +1,7 @@
 altair==4.2.0
 astropy==5.0.4
 numpy==1.21.5
-opencv==4.6.0.66
+opencv-python==4.6.0.66
 pandas==1.4.2
 Pillow==9.2.0
 scipy==1.7.3
