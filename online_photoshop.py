@@ -8,7 +8,6 @@ from scipy import signal
 from scipy import ndimage
 from astropy.convolution import RickerWavelet2DKernel
 import weightedstats as ws
-import cv2
 
 def uploadImage(lable):
     #Upload file to app
